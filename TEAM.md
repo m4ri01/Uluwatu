@@ -28,6 +28,7 @@
 - [Hanhan](https://github.com/hahn)
 - [Abdul Jabar Hakim](https://github.com/hak11)
 - [Achmad Yusri Afandi](http://github.com/yusrideb)
+- [Melki Mario Gulo](http://github.com/m4ri01)
 
 ## Riset
 
